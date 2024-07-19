@@ -31,7 +31,7 @@ def modifyData(dataString):
     return ''.join(chars)
 
 
-testString = "0110001111111000000001"
+testString = "1111101111110111100001"
 testData = modifyData(testString)
 testBits = len(testData)
 print("Test Data: ",testData)
