@@ -66,7 +66,7 @@ The state machine transitions through various states based on the current state,
 
 To get a local copy of the project, you can clone the repository using the below mentioned command:
 
-      git clone https://github.com/riaagarwal21/2-bit-Vedic-Multiplier
+      git clone https://github.com/riaagarwal21/EFDR
 
 ## Simulation Results
 
